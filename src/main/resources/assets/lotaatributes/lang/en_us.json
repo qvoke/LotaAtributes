@@ -1,0 +1,11 @@
+{
+  "attribute.name.lotaatributes.heavy_weapons_damage": "Heavy Weapon Damage",
+  "attribute.name.lotaatributes.blades_damage": "Blade Damage",
+  "attribute.name.lotaatributes.katanas_damage": "Katana Damage",
+  "attribute.name.lotaatributes.magical_items_damage": "Magical Item Damage",
+  "attribute.name.lotaatributes.throwing_damage": "Throwing Damage",
+  "attribute.name.lotaatributes.stealth": "Stealth",
+  "attribute.name.lotaatributes.stealth.info": "(Stealth reduces monsters aggression range)",
+  "attribute.name.lotaatributes.evasion": "Evasion",
+  "attribute.name.lotaatributes.evasion.info": "(Evasion gives a chance to avoid attacks)"
+}
